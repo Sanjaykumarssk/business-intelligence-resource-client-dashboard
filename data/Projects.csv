@@ -1,0 +1,6 @@
+ProjectID,ProjectName,Client,StartDate,EndDate,BudgetHours
+P01,Apollo,Acme Corp,2025-06-01,2025-09-15,1200
+P02,Beacon,Globex,2025-06-10,2025-08-30,900
+P03,Comet,Innotech,2025-06-20,2025-09-30,1500
+P04,Delta,BlueSky,2025-07-01,2025-10-15,800
+P05,Everest,Zenith,2025-07-15,2025-10-31,1100

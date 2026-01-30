@@ -1,0 +1,35 @@
+# Power BI files
+*.pbix.bak
+*.pbit
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Data files (uncomment if you don't want to track CSV files)
+# *.csv
+
+# Backup files
+*.bak
+*.backup
+
+# Windows
+$RECYCLE.BIN/
+*.lnk
+
+# Mac
+.AppleDouble
+.LSOverride

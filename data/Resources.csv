@@ -1,0 +1,13 @@
+ResourceID,ResourceName,Department,Role,PrimarySkill,RatePerHour,CapacityHoursPerDay
+R01,Alice,Development,Developer,React,40,8
+R02,Bob,QA,QA Engineer,Selenium,35,8
+R03,Charlie,Development,Developer,Python,45,8
+R04,Deepa,Design,Designer,Figma,38,8
+R05,Esha,Data,Data Analyst,SQL,42,8
+R06,Farhan,Development,Developer,Node.js,44,8
+R07,Gita,QA,QA Engineer,JMeter,36,8
+R08,Hari,Project Mgmt,Project Manager,Agile,55,8
+R09,Isha,Data,Data Engineer,Python,48,8
+R10,Jai,Development,Developer,React,43,8
+R11,Kiran,Design,UX Designer,Figma,39,8
+R12,Lara,Project Mgmt,Scrum Master,Agile,52,8
