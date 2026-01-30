@@ -32,5 +32,8 @@ resource allocation, client engagement, and overall performance.
 
 ---
 
-## Project Structure
+## Screenshots
+
+![Dashboard View](screenshots/dashboard.png)
+
 
